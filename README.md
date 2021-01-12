@@ -1,0 +1,1 @@
+NIMA is a plugin for EEGLAB STUDY developed by Makoto Miyakoshi. The name NIMA is a recursive acronym for Nima's Images from Measure projection Analysis. Literally, I stripped visualization part of Measure Projection (https://github.com/bigdelys/measure_projection). The dedicated Wiki page is linked here https://sccn.ucsd.edu/wiki/NIMA.
